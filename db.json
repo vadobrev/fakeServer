@@ -1,7 +1,7 @@
 {
-	"requestObjects":{
+	"requestObjects":[
 	
-	},
+	],
 	"responseObject": {
 	  "MSG": "SUCCESS",
 	  "CODE": "1"
