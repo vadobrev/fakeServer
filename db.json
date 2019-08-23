@@ -1,9 +1,5 @@
 {
-	"requestObjects":[
+	"tests":[
 	
-	],
-	"responseObject": {
-	  "MSG": "SUCCESS",
-	  "CODE": "1"
-	}
+	]
 }
